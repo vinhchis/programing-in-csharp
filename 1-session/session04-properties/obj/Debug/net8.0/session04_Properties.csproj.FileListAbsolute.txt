@@ -1,0 +1,14 @@
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\bin\Debug\net8.0\session04_Properties.exe
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\bin\Debug\net8.0\session04_Properties.deps.json
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\bin\Debug\net8.0\session04_Properties.runtimeconfig.json
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\bin\Debug\net8.0\session04_Properties.dll
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\bin\Debug\net8.0\session04_Properties.pdb
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\session04_Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\session04_Properties.AssemblyInfoInputs.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\session04_Properties.AssemblyInfo.cs
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\session04_Properties.csproj.CoreCompileInputs.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\session04_Properties.dll
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\refint\session04_Properties.dll
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\session04_Properties.pdb
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\session04_Properties.genruntimeconfig.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\session04_Properties\obj\Debug\net8.0\ref\session04_Properties.dll

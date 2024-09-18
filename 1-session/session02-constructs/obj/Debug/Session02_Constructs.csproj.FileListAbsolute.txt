@@ -1,0 +1,7 @@
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session02_Constructs\bin\Debug\Session02_Constructs.exe.config
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session02_Constructs\bin\Debug\Session02_Constructs.exe
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session02_Constructs\bin\Debug\Session02_Constructs.pdb
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session02_Constructs\obj\Debug\Session02_Constructs.csproj.AssemblyReference.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session02_Constructs\obj\Debug\Session02_Constructs.csproj.CoreCompileInputs.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session02_Constructs\obj\Debug\Session02_Constructs.exe
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session02_Constructs\obj\Debug\Session02_Constructs.pdb

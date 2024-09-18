@@ -1,0 +1,7 @@
+D:\Code C#\.vs\PC\Session05_Delegate\bin\Debug\Session05_Delegate.exe.config
+D:\Code C#\.vs\PC\Session05_Delegate\bin\Debug\Session05_Delegate.exe
+D:\Code C#\.vs\PC\Session05_Delegate\bin\Debug\Session05_Delegate.pdb
+D:\Code C#\.vs\PC\Session05_Delegate\obj\Debug\Session05_Delegate.csproj.AssemblyReference.cache
+D:\Code C#\.vs\PC\Session05_Delegate\obj\Debug\Session05_Delegate.csproj.CoreCompileInputs.cache
+D:\Code C#\.vs\PC\Session05_Delegate\obj\Debug\Session05_Delegate.exe
+D:\Code C#\.vs\PC\Session05_Delegate\obj\Debug\Session05_Delegate.pdb

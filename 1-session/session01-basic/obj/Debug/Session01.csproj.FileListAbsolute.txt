@@ -1,0 +1,7 @@
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session01\bin\Debug\Session01.exe.config
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session01\bin\Debug\Session01.exe
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session01\bin\Debug\Session01.pdb
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session01\obj\Debug\Session01.csproj.AssemblyReference.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session01\obj\Debug\Session01.csproj.CoreCompileInputs.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session01\obj\Debug\Session01.exe
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\PC\Session01\obj\Debug\Session01.pdb

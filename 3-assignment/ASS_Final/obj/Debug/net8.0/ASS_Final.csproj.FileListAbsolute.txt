@@ -1,0 +1,14 @@
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\bin\Debug\net8.0\ASS_Final.exe
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\bin\Debug\net8.0\ASS_Final.deps.json
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\bin\Debug\net8.0\ASS_Final.runtimeconfig.json
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\bin\Debug\net8.0\ASS_Final.dll
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\bin\Debug\net8.0\ASS_Final.pdb
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ASS_Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ASS_Final.AssemblyInfoInputs.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ASS_Final.AssemblyInfo.cs
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ASS_Final.csproj.CoreCompileInputs.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ASS_Final.dll
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\refint\ASS_Final.dll
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ASS_Final.pdb
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ASS_Final.genruntimeconfig.cache
+D:\Documents\workspaces\src\projects\fpt-apteach\SEM-02\4. PC\ASS_Final\obj\Debug\net8.0\ref\ASS_Final.dll

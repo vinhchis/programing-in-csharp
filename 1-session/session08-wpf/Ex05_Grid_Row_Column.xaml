@@ -1,0 +1,26 @@
+﻿<Window x:Class="session08_wpf.Ex05_Grid_Row_Column"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:session08_wpf"
+        mc:Ignorable="d"
+        Title="Ex05_Grid_Row_Column" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Margin="50" Content="No-01" Grid.Row="0" Grid.Column="0" FontSize="30"/>
+        <Button Margin="50" Content="No-02" Grid.Row="0" Grid.Column="1" FontSize="30"/>
+        <Button Margin="50" Content="No-03" Grid.Row="1" Grid.Column="0" FontSize="30"/>
+        <Button Margin="50" Content="No-04" Grid.Row="1" Grid.Column="1" FontSize="30"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,35 @@
+﻿<Window x:Class="session08_wpf.ADOApp"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:session08_wpf"
+        mc:Ignorable="d"
+        Title="ADOApp" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="151*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Item Management System" HorizontalAlignment="Left" Margin="116,65,0,0" VerticalAlignment="Top" FontSize="48" FontWeight="Bold" Foreground="#FF6B2F56" Background="{x:Null}" Grid.Column="1" Height="74" Width="601"/>
+        <Label Content="Code:" Margin="42,182,641,226" Grid.Column="1"/>
+        <Label Content="Name:" Margin="32,246,641,162" Grid.Column="1"/>
+        <Label Content="Price:" Margin="32,309,641,99" Grid.Column="1"/>
+        <DataGrid x:Name="dgItem" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="325,199,0,107" AutoGenerateColumns="False" SelectionChanged="DataGrid_SelectionChanged" Grid.Column="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding ICode}" Header="Code" Width="150"/>
+                <DataGridTextColumn Binding="{Binding ItemName}" Header="Name" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Rate}" Header="Price" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="txtCode" HorizontalAlignment="Left" Margin="114,201,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Grid.Column="1" Height="18"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="138,259,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1" Height="18"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="138,322,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Column="1" Height="18"/>
+        <Button Content="Insert" x:Name="btnInsert" HorizontalAlignment="Left" Margin="448,359,0,0"  VerticalAlignment="Top" Grid.Column="1" Click="btnInsert_Click" />
+        <Button Content="Update" x:Name="btnUpdate" HorizontalAlignment="Left" Margin="153,368,0,0" VerticalAlignment="Top" Grid.Column="1" Click="btnUpdate_Click" Height="20" Width="42"/>
+        <Button Content="Delete" x:Name="btnDelete" HorizontalAlignment="Left" Margin="252,364,0,0" VerticalAlignment="Top" Grid.Column="1" Click="btnDelete_Click_1" Height="20" Width="38"/>
+
+
+
+    </Grid>
+</Window>

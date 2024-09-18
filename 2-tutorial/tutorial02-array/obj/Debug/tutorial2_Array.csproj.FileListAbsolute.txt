@@ -1,0 +1,7 @@
+D:\Code C#\.vs\PC\tutorial2_Array\bin\Debug\tutorial2_Array.exe.config
+D:\Code C#\.vs\PC\tutorial2_Array\bin\Debug\tutorial2_Array.exe
+D:\Code C#\.vs\PC\tutorial2_Array\bin\Debug\tutorial2_Array.pdb
+D:\Code C#\.vs\PC\tutorial2_Array\obj\Debug\tutorial2_Array.csproj.AssemblyReference.cache
+D:\Code C#\.vs\PC\tutorial2_Array\obj\Debug\tutorial2_Array.csproj.CoreCompileInputs.cache
+D:\Code C#\.vs\PC\tutorial2_Array\obj\Debug\tutorial2_Array.exe
+D:\Code C#\.vs\PC\tutorial2_Array\obj\Debug\tutorial2_Array.pdb
